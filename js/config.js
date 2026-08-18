@@ -82,11 +82,11 @@ const SITE_CONFIG = {
       "And watching you become a Lieutenant honestly makes me unbelievably proud.",
       "No matter how grown up you become, no matter how far life takes you... you'll always be my sister.",
       "And I'll always be cheering for you.",
-      "Happy Birthday, Kavya.",
+      "Happy Birthday, Kavuuu akkkaaa❤️.",
       "Keep being ridiculously amazing."
     ],
     signoff: "With lots of love,",
-    signature: "Your annoying younger sister ❤️"
+    signature: "Your annoying younger brother ❤️"
   },
 
   // ---------- Screen 8: Photo memory wall ----------
@@ -107,7 +107,7 @@ const SITE_CONFIG = {
 
   // ---------- Screen 9: Final reveal lines ----------
   finalReveal: [
-    "Kavya...",
+    "Kavuuu akkaaa❤️...",
     "Ready?",
     "HAPPY BIRTHDAY ❤️",
     "27 looks AMAZING on you.",
