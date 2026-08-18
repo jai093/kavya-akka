@@ -73,7 +73,7 @@ const SITE_CONFIG = {
 
   // ---------- Screen 7: Letter ----------
   letter: {
-    salutation: "Dear Kavya,",
+    salutation: "Dear Kavuuu akkaaa,",
     paragraphs: [
       "You have always been someone I look up to.",
       "You've grown into someone strong, independent, brave and incredibly beautiful inside and out.",
